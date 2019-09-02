@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>427838542288-5gmead58qqtqtdlfqhb8km22e2m44ro4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.427838542288-5gmead58qqtqtdlfqhb8km22e2m44ro4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCS2sTM_3Q-xD0kY1McBKlajFDv46skfFw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>427838542288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tuncaycansiz.PipeLineChat</string>
+	<key>PROJECT_ID</key>
+	<string>pipelinechat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pipelinechat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:427838542288:ios:b075af12f1be1625</string>
+	<key>DATABASE_URL</key>
+	<string>https://pipelinechat.firebaseio.com</string>
+</dict>
+</plist>
